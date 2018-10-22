@@ -2,7 +2,7 @@
     "name": "search-with-qiita",
     "displayName": "search with qiita",
     "description": "qiita検索をvscode内で行うための拡張機能です。",
-    "version": "0.0.1",
+    "version": "0.2.0",
     "publisher": "ITFhikary",
     "categories": [
         "Other"

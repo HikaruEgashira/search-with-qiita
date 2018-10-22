@@ -1,14 +1,6 @@
-### Version 0.2.1
+### Version 0.2.0
 
-- Support for configurable query parameters - [@brunnerh](https://github.com/brunnerh)
-
-### Version 0.1.2
-
-- Improve display of network connectivity problems.
-
-### Version 0.1.1
-
-- Limit maximum length of search queries and improve single word extraction.
+- 選択されていない状態での`Qiita`コマンドによりPrompt上での検索できるようにしました。
 
 ### Version 0.1.0
 

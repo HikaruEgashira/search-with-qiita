@@ -1,9 +1,10 @@
 # Search with Qiita
 
-![gif(453 KB)](.\images\search_with_qiita.gif)
+![gif(453 KB)](images/search_with_qiita.gif)
 
 これは非公式なQiita検索の拡張機能です.
 - 検索したい文字列を選択後`ctrl+shift+P`で`qiita search`を検索するか、右上のQiitaボタンを利用してください.
+- (ver 0.2.0)未選択状態での検索機能を実装しました.
 - ファイル名から使用言語を特定してタグ付けしています.
 - ファイルのタグが割り与えられていない場合はconfigで設定してください.
     - 設定例
